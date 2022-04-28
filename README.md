@@ -10,4 +10,4 @@ Nom
               
               Contact:
                      ➥ GMAIL: vekodev.pro@gmail.com
-                     ➥ DISCORD: VƏKO#1068
+                     ➥ DISCORD: VEKO#1068
