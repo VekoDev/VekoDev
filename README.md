@@ -1,8 +1,9 @@
 Nom
   ➥ Alexandre
   
-  Projets:
-        ➥ AemiHost
+  Projets (réalisés / qui ont marché):
+        ➥ Hexagone V1 (2020)
+        ➥ RoyaliaMC (2021)
         
         Hobbies:
               ➥ Coder
@@ -10,4 +11,4 @@ Nom
               
               Contact:
                      ➥ GMAIL: vekodev.pro@gmail.com
-                     ➥ DISCORD: VEKO#1068
+                     ➥ DISCORD: VEKO#0001
